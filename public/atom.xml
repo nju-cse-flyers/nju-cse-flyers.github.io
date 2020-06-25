@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>NJU CS Flyers</title>
+  <title>NJU CS Flyers - Global Alumni Network</title>
   
-  <subtitle>Per Aspera, Ad Astra</subtitle>
+  <subtitle>Per Aspera, Ad Astra.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-06-19T07:26:21.320Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://nju-cs-flyers.github.io/"/>
+  <updated>2020-06-21T02:17:18.385Z</updated>
+  <id>https://nju-cs-flyers.github.io/</id>
   
   <author>
     <name>NJUCS Flyers</name>
@@ -17,24 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/19/hello-world/"/>
-    <id>http://yoursite.com/2020/06/19/hello-world/</id>
+    <title>NJUCS-G.A.N.企划</title>
+    <link href="https://nju-cs-flyers.github.io/2020/06/19/workplan/"/>
+    <id>https://nju-cs-flyers.github.io/2020/06/19/workplan/</id>
     <published>2020-06-19T07:26:21.320Z</published>
-    <updated>2020-06-19T07:26:21.320Z</updated>
+    <updated>2020-06-21T02:17:18.385Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>如主页所示，我们搞了个事情。事情的起因是我们在申请交流群里面水的时候突然想，要是有一个玩意儿能把以前的飞跃手册弄一起就好了，所以这个玩意的前身是一个github repo。然后就不知道怎么回事开始聊到海外校友。于是我们就想到，申请到国外学校的dalao们就留下飞跃手册上几句话就走了，实在太亏，我们想再从老学长老学姐们那里“榨取”点剩余价值。而且这几年6所top3申请形势大好，觉得我南也要加油，所以就从一个github repo变成了几个repo，然后变成了blog……</p><p>希望这里能成为dalao快乐喝茶的地方，也希望NJU的萌新们能在听我们讲我们踩过的坑哂笑之余，<strong>别再踩上去了！！！</strong></p><p>我们这个玩意儿，既不是什么组织，也不是什么联盟，就是一群松散的大家一起聊聊天互相帮帮忙的小群。希望之后办办分享，写写博客，学弟学妹大佬们捧个人场——钱场就算了。还有，<strong>咱们不是中介</strong>，所以我们可不会劝你要出国什么的，这个初衷太重要了，建议你考虑清楚自己适合什么。我们也会有分享帮助你更好地思考这个问题——不过最终还是要靠你。当然如果你已经有了明确的想法，那是最好的，有疑惑有需求都可以和我们联系。</p><p>啊，说白了，咱们就是一群单纯希望咱学校申请越来越好的老校友而已。毕竟做点力所能及的小事，希望大家多多支持！刚开始肯定有很多不足，希望各位大佬不吝赐教，多在我们的github这个博客的repo里面提issue！</p><p>MAKE NJU GREAT ONCE MORE！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;如主页所示，我们搞了个事情。事情的起因是我们在申请交流群里面水的时候突然想，要是有一个玩意儿能把以前的飞跃手册弄一起就好了，所以这个玩意的前身是一个github repo。然后就不知道怎么回事开始聊到海外校友。于是我们就想到，申请到国外学校的dalao们就留下飞跃手册上几句
       
     
     </summary>
     
     
+    
+      <category term="plan" scheme="https://nju-cs-flyers.github.io/tags/plan/"/>
     
   </entry>
   
