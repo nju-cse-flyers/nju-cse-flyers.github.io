@@ -1,5 +1,6 @@
 ---
-title: NJUCS-G.A.N.企划
+title: NJUCS-G.A.N.初心
+date: 2020-06-19
 tag: plan
 
 
