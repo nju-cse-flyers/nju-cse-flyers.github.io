@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nju-cs-flyers.github.io/"/>
-  <updated>2021-04-26T11:50:44.941Z</updated>
+  <updated>2021-06-12T07:07:50.239Z</updated>
   <id>https://nju-cs-flyers.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>21 届飞跃分享会</title>
+    <link href="https://nju-cs-flyers.github.io/2021/06/12/21%E5%B1%8A%E9%A3%9E%E8%B7%83%E5%88%86%E4%BA%AB%E4%BC%9A/"/>
+    <id>https://nju-cs-flyers.github.io/2021/06/12/21%E5%B1%8A%E9%A3%9E%E8%B7%83%E5%88%86%E4%BA%AB%E4%BC%9A/</id>
+    <published>2021-06-11T16:00:00.000Z</published>
+    <updated>2021-06-12T07:07:50.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>21 届飞跃分享会将于 6.15 日（周二）19:00 同时在仙林计科楼 223 报告厅和线上进行。届时，将有 19 位申请国外泛计科方向的同学分享自己的出国经验（研究型 7 位，授课型 12 位），欢迎大家参加！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;21 届飞跃分享会将于 6.15 日（周二）19:00 同时在仙林计科楼 223 报告厅和线上进行。届时，将有 19 位申请国外泛计科方向的同学分享自己的出国经验（研究型 7 位，授课型 12 位），欢迎大家参加！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="event" scheme="https://nju-cs-flyers.github.io/tags/event/"/>
+    
+  </entry>
   
   <entry>
     <title>21 届飞跃手册中期版本发布</title>
